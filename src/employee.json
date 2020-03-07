@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "firstName": "Eric",
+      "lastName": "Loos",
+      "email": "eloos@gmail.com",
+      "deskPhone": 8475369584,
+      "mobilePhone": 8475739754,
+      "hasMobile": true
+    },
+    {
+      "id": 2,
+      "firstName": "Courtney",
+      "lastName": "Stanley",
+      "email": "courtstanley@gmail.com",
+      "deskPhone": 5729574639,
+      "mobilePhone": 5723859384,
+      "hasMobile": true
+    },
+    {
+      "id": 3,
+      "firstName": "Andy",
+      "lastName": "Polka",
+      "email": "apolka@gmail.com",
+      "deskPhone": 6478495,
+      "mobilePhone": "6478679456",
+      "hasMobile": true
+    },
+    {
+      "id": 4,
+      "firstName": "Ben",
+      "lastName": "Avercamp",
+      "email": "Bavercamp@gmail.com",
+      "deskPhone": 8478573648,
+      "mobilePhone": "",
+      "hasMobile": false
+    },
+    {
+      "id": 5,
+      "firstName": "Jeff",
+      "lastName": "Divito",
+      "email": "Jdivito@gmail.com",
+      "deskPhone": 8475267837,
+      "mobilePhone": 8479563627,
+      "hasMobile": true
+    },
+    {
+      "id": 6,
+      "firstName": "Kelsey",
+      "lastName": "Georgen",
+      "email": "kgeorgen@gmail.com",
+      "deskPhone": 8478573059,
+      "mobilePhone": 8479583749,
+      "hasMobile": true
+    },
+    {
+      "id": 7,
+      "firstName": "Michelle",
+      "lastName": "Sulungan",
+      "email": "msulungan@gmail.com",
+      "deskPhone": 8476749503,
+      "mobilePhone": 8478693094,
+      "hasMobile": true
+    },
+    {
+      "id": 8,
+      "firstName": "Nav",
+      "lastName": "Iyengar",
+      "email": "niyengar@gmail.com",
+      "deskPhone": 8478573648,
+      "mobilePhone": "",
+      "hasMobile": false
+    },
+    {
+      "id": 9,
+      "firstName": "Katie",
+      "lastName": "Rio",
+      "email": "krio@gmail.com",
+      "deskPhone": 8478573648,
+      "mobilePhone": "",
+      "hasMobile": false
+    }
+  ]
